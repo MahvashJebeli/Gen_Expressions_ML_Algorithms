@@ -1,4 +1,4 @@
-## Investigated large genomics datasets of different cancer line’s gene expressions to predict cancer type.
+## Investigation of large genomics datasets of different cancer lines’ gene expressions to predict cancer type.
 * Utilized scikit-learn, pandas, and NumPy libraries in Python.
 * SVM and clustering algorithms (with PCA) were employed.
 * Large genomic datasets
